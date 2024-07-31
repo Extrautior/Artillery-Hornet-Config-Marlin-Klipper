@@ -13,3 +13,6 @@ Input Shaper
 Pressure Advance  
 BLtouch  
 Adaptive Mesh
+
+**Klipper For Hornet BTT SKR1.4 TURBO**
+includes sensorless homing using the TMC2209 Drivers
